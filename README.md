@@ -51,5 +51,6 @@ Give a star if this project helped you
 
 ## License
 
-Copyright @franck Abgrall
+Copyright @franck Abgrall.
+
 This project is MIT licensed.
