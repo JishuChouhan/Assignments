@@ -10,8 +10,8 @@
 
 
 ## Prerequisites
-* Npm >=5.5.0
-* Node >=9.1.30
+* npm >=5.5.0
+* node >=9.1.30
 ## Install
  npm install
 
@@ -51,5 +51,5 @@ Give a star if this project helped you
 
 ## License
 
-Copyright @franckabgrall
-this project is mit licensed.
+Copyright @franck Abgrall
+This project is MIT licensed.
